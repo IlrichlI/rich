@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+<!--
 *** Thanks for checking out the Rich. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
@@ -28,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ialiaslani/rich">
+  <a href="https://github.com/IlrichlI/rich">
     <img src="docs/assets/images/png/logo-no-background.png" alt="Logo" width="100" height="37">
   </a>
 
@@ -37,14 +38,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/ialiaslani/rich"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/IlrichlI/rich"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ialiaslani/rich">View Demo</a>
+    <a href="https://github.com/IlrichlI/rich">View Demo</a>
     ·
-    <a href="https://github.com/ialiaslani/rich/issues">Report Bug</a>
+    <a href="https://github.com/IlrichlI/rich/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ialiaslani/rich/issues">Request Feature</a>
+    <a href="https://github.com/IlrichlI/rich/issues">Request Feature</a>
   </p>
 </div>
 
