@@ -132,7 +132,7 @@ You Need these dependencies:
 clone the project:
 
 ```sh
-git clone https://github.com/ialiaslani/rich.git
+git clone https://github.com/IlrichlI/rich.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -187,7 +187,7 @@ Rich Crud Suports Dynamic Query On Entity, Export Excel, Load Relations And Perm
 - [x] better readme
 - [ ] add documentation (as wiki)
 
-See the [open issues](https://github.com/ialiaslani/rich/issues) for a full list of proposed features (and known issues)
+See the [open issues](https://github.com/IlrichlI/rich/issues) for a full list of proposed features (and known issues)
 .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -251,20 +251,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ialiaslani/rich.svg?style=for-the-badge
-[contributors-url]: https://github.com/ialiaslani/rich/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/IlrichlI/rich.svg?style=for-the-badge
+[contributors-url]: https://github.com/IlrichlI/rich/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/ialiaslani/rich.svg?style=for-the-badge
-[forks-url]: https://github.com/ialiaslani/rich/network/members
+[forks-shield]: https://img.shields.io/github/forks/IlrichlI/rich.svg?style=for-the-badge
+[forks-url]: https://github.com/IlrichlI/rich/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/ialiaslani/rich.svg?style=for-the-badge
-[stars-url]: https://github.com/ialiaslani/rich/stargazers
+[stars-shield]: https://img.shields.io/github/stars/IlrichlI/rich.svg?style=for-the-badge
+[stars-url]: https://github.com/IlrichlI/rich/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/ialiaslani/rich.svg?style=for-the-badge
-[issues-url]: https://github.com/ialiaslani/rich/issues
+[issues-shield]: https://img.shields.io/github/issues/IlrichlI/rich.svg?style=for-the-badge
+[issues-url]: https://github.com/IlrichlI/rich/issues
 
-[license-shield]: https://img.shields.io/github/license/ialiaslani/rich.svg?style=for-the-badge
-[license-url]: https://github.com/ialiaslani/rich/LICENSE
+[license-shield]: https://img.shields.io/github/license/IlrichlI/rich.svg?style=for-the-badge
+[license-url]: https://github.com/IlrichlI/rich/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/
